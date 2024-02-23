@@ -1,0 +1,16 @@
+.ms-bg-darkgray{
+    background-color: #2C3E50;
+}
+ul{
+    list-style: none;
+}
+ a{
+    text-decoration: none;
+    color: inherit;
+}
+.ms-bg-green{
+    background-color: #1ABC9C;
+}
+.ms-bg-gray{
+    background-color: #3A546D;
+}
